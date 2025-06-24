@@ -6,7 +6,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    border:5px solid rgb(28, 73, 139);
+    /* border:5px solid rgb(28, 73, 139); */
 }
 .blogs{
     width: 80%;
